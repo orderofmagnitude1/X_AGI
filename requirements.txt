@@ -48,7 +48,7 @@ kombu==5.2.4
 log-symbols==0.0.14
 loguru==0.7.0
 lxml==4.9.2
-Mako==1.2.4
+Mako==1.4.2
 MarkupSafe==2.1.2
 multidict==6.0.4
 newspaper3k==0.2.8
